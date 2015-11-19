@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Screenshot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Screenshot_jar</output-path>
+    <root id="archive" name="Screenshot.jar">
+      <element id="module-output" name="Screenshot" />
+    </root>
+  </artifact>
+</component>
